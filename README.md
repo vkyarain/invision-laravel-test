@@ -20,7 +20,7 @@
 8. Run "php artisan migrate"
 9. Run "php artisan migrate --path=/database/migrations/2021_04_11_223228_create_postlikes_table.php"
 10. Run "php artisan migrate --path=/database/migrations/2021_04_11_232359_create_postcomments_table.php"
-11.Run "php artisan serve"
+11. Run "php artisan serve"
 
 ## Postman Documentation
 https://documenter.getpostman.com/view/3788108/TzCV456m
