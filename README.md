@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Step:
+## Step to project setup:
 1. download or clone project
 2. Go to the folder application using cd
 3. Run "composer install" on your cmd or terminal
